@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "2v2TestDemo",
+"dataUrl": "WebOutput.data.unityweb",
+"asmCodeUrl": "WebOutput.asm.code.unityweb",
+"asmMemoryUrl": "WebOutput.asm.memory.unityweb",
+"asmFrameworkUrl": "WebOutput.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
